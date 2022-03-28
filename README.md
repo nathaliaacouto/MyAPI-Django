@@ -1,5 +1,5 @@
-# My API-Django 
-Minha primeira utilização do Django, uma API de cadastro de usuários 👩‍💻
+# My API-Django 👩‍💻
+Minha primeira utilização do Django, uma API de cadastro de usuários 
 
 ## Como instalar
 1. Clone esse repositório
